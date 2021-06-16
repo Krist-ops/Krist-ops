@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krist-ops
-- 👀 I’m interested in ...UX UI
+- 👀 I’m interested in ...UI UX Design
 - 🌱 I’m currently learning ...git and github
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...krisweiss33@gmail.com
